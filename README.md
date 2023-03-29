@@ -6,6 +6,7 @@ Proof of concept for a nueral network based cheat detection system for movment b
   3. Train the network to know what cheating movement "looks" like
   4. Decide the threshold for detection/ number of detections required to notify staff or auto-ban the player
 # Video
+![video](https://github.com/ScottXTra/MinecraftAIAntiCheatPOC/raw/master/POC-VIDEO.mp4)
 Things shown in video 
   1. Record player XYZ coords and their velocity while they are walking then save and rename the file
   2. Record player XYZ coords and their velocity while they are "flyhacking" (in this case just creative) then save and rename the file
