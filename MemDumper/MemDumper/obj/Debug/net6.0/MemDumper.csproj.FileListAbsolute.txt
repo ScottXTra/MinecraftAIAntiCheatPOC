@@ -1,0 +1,16 @@
+C:\Users\scott\source\repos\MemDumper\MemDumper\bin\Debug\net6.0\MemDumper.exe
+C:\Users\scott\source\repos\MemDumper\MemDumper\bin\Debug\net6.0\MemDumper.deps.json
+C:\Users\scott\source\repos\MemDumper\MemDumper\bin\Debug\net6.0\MemDumper.runtimeconfig.json
+C:\Users\scott\source\repos\MemDumper\MemDumper\bin\Debug\net6.0\MemDumper.dll
+C:\Users\scott\source\repos\MemDumper\MemDumper\bin\Debug\net6.0\MemDumper.pdb
+C:\Users\scott\source\repos\MemDumper\MemDumper\obj\Debug\net6.0\MemDumper.csproj.AssemblyReference.cache
+C:\Users\scott\source\repos\MemDumper\MemDumper\obj\Debug\net6.0\MemDumper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\source\repos\MemDumper\MemDumper\obj\Debug\net6.0\MemDumper.AssemblyInfoInputs.cache
+C:\Users\scott\source\repos\MemDumper\MemDumper\obj\Debug\net6.0\MemDumper.AssemblyInfo.cs
+C:\Users\scott\source\repos\MemDumper\MemDumper\obj\Debug\net6.0\MemDumper.csproj.CoreCompileInputs.cache
+C:\Users\scott\source\repos\MemDumper\MemDumper\obj\Debug\net6.0\MemDumper.dll
+C:\Users\scott\source\repos\MemDumper\MemDumper\obj\Debug\net6.0\refint\MemDumper.dll
+C:\Users\scott\source\repos\MemDumper\MemDumper\obj\Debug\net6.0\MemDumper.pdb
+C:\Users\scott\source\repos\MemDumper\MemDumper\obj\Debug\net6.0\MemDumper.genruntimeconfig.cache
+C:\Users\scott\source\repos\MemDumper\MemDumper\obj\Debug\net6.0\ref\MemDumper.dll
+C:\Users\scott\source\repos\MemDumper\MemDumper\obj\Debug\net6.0\MemDumper.csproj.ResolveComReference.cache
